@@ -1,0 +1,19 @@
+.items{
+    border:1px solid lightgray;
+}
+.items img {
+    height:50px;
+}
+.heading {
+    background-color: #1f441e;
+    color:white;
+    text-align:center;
+    padding:10px;
+    margin-bottom:0;
+}
+.name {
+    color: #1f441e;
+}
+.details {
+    color: #966c3b;
+}
