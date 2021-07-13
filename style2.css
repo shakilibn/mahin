@@ -1,5 +1,6 @@
 .items{
     border:1px solid lightgray;
+    width:990px;
 }
 .items img {
     height:50px;
@@ -16,4 +17,8 @@
 }
 .details {
     color: #966c3b;
+}
+.image-container, .details-container, .button-container {
+    width:33%;
+    border:1px solid gray;
 }

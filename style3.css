@@ -1,0 +1,49 @@
+.top-button {
+  background-color: darkblue;
+  color: white;
+  width: 150px;
+  padding: 7px;
+  border: none;
+  border-left: 10px solid tomato;
+  border-radius: 5px;
+}
+.check-price {
+  background-color: tomato;
+  color: white;
+  width: 150px;
+  padding: 7px;
+  border: none;
+  border-left: 10px solid darkblue;
+  border-radius: 5px;
+}
+.product-container {
+  width: 900px;
+  border: 2px solid darkblue;
+  border-radius: 5px;
+  text-align: center;
+  padding: 0 40px 20px 40px;
+}
+.product-info img {
+  height: 40px;
+}
+.product-specification {
+  text-align: left;
+  background-color: rgb(185, 241, 241);
+  padding: 15px;
+  border-radius: 5px;
+}
+ul {
+  list-style: none;
+}
+.card-container {
+  width: 900px;
+}
+.card-content {
+  border: 2px solid darkblue;
+  border-radius: 5px;
+  width: 430px;
+}
+.card-heading {
+  border-bottom: 2px solid darkblue;
+  padding: 5px 0 5px 30px;
+}
