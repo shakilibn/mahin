@@ -1,0 +1,35 @@
+.page {
+    width:600px;
+    /* background-color: aquamarine; */
+    border:1px solid lightgray;
+}
+.page img {
+    height:200px;
+    display:block;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.check-btn {
+    background-color: tomato;
+    padding:10px 20px;
+    border:none;
+    border-radius:5px;
+    color:white;
+    font-weight: bold;
+    display:block;
+    margin: 0 auto;
+}
+.category {
+    text-align: center;
+    background-color:lightgray;
+    width:200px;
+    margin-left:200px;
+    margin-top: 0;
+}
+.product-name {
+    text-align: center;
+}
+.description {
+    padding:20px 40px;
+    text-align: justify;
+}

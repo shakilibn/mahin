@@ -1,0 +1,25 @@
+.main-container h1 {
+    text-align:center;
+}
+.main-container {
+    background-color: rgb(238, 237, 237);
+    padding:20px;
+
+}
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+.card-1 h2, .card-2 h2 {
+    text-align: center;
+}
+.card-1, .card-2 {
+    width:300px;
+    box-shadow: 2px 2px 4px gray;
+    line-height:2em;
+    height:250px;
+    border-radius:10px;
+    background-color: lightgray;
+    padding:10px;
+    margin-right:20px;
+}
